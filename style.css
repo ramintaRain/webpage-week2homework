@@ -1,0 +1,135 @@
+/*navigacija*/
+
+.navigation{
+	background-color:#384458;
+}
+header{
+	width: 750px;
+	height:50px;
+	margin:0 auto;
+}
+header img{
+	width:30px;
+	margin-top:9px;
+	
+}
+
+form{
+	margin: 0 auto;
+}
+
+nav{
+	float: right;
+}
+nav li{
+	list-style:none;
+	display:inline;
+	margin-left:5px;
+	line-height:30px;
+}
+nav a{
+	color:#eff5f1;
+	font-size:14pt;
+}
+
+.clearfix{
+	clear:both;
+}
+
+.wrapper{
+	background-color:#eff5f1;
+	height:440px;
+	text-align: center;
+	padding-top:10px;
+}
+.section1{
+	width:750px;
+	margin: 20px auto 0 auto;
+	float:inherit;
+}
+
+h1{
+	padding-top:50px;
+	}
+	
+	
+button{
+  margin:auto;
+  display:block;
+}
+
+
+/*button styler*/
+.button-styles{
+    background-color:#a4c0b0;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+	border-radius: 4px;
+	margin: 250px auto 50 auto;
+	}
+
+.button:hover {
+    background-color: green;
+}
+
+.align-right{
+	text-align:right;
+}
+
+.section2{
+  width: 750px;
+  margin: 0 auto 0 auto;
+  padding: 50px;
+}
+p{
+	text-align: justify;
+	}
+	
+.section3{
+	background-color:#8badaa;
+	height:450px;
+}
+
+.container{
+	 width: 750px;
+	 margin: 20px auto 0 auto;
+	 padding: 50px;
+}
+
+h3{
+	text-align:left;
+	font-size:20px;
+}
+	
+img{
+	width:300px;
+	margin: 10px auto 0 auto;
+}
+
+footer{
+		background-color:#384458;
+		height:60px;
+		padding-top:5px;
+}
+
+.lastsection{
+	 margin: 20px auto 0 auto;
+	
+}
+
+.visosteises{
+	font-style: italic;
+	color:#eff5f1;
+	font-size:12pt;
+	padding: 20px auto 20px auto;
+    text-align: center;
+
+}
+
+
+
+
