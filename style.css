@@ -1,0 +1,212 @@
+
+header{
+	height:150px;
+	width: 750px;
+	margin:0 auto;
+}
+header img{
+	width:70px;
+	margin-top:20px;
+	
+}
+
+main{
+	margin: 0 auto;
+	width:900px;
+}
+
+a{
+	color:#63ace5;
+	font-family: 'Quicksand', sans-serif;
+	font-size:12;
+}
+
+/*meniu juosta*/
+
+nav{ 
+float:right;  
+}
+
+nav li{
+	list-style:none;
+	display:inline-block;
+	text-align:center;
+	margin:50px;
+	color:#63ace5;
+}
+
+i.fas{
+	display:block;
+	margin-bottom:5px;
+	color:#63ace5;
+	font-size:22;
+}
+
+.clearfix{
+	clear:both;
+}
+
+
+
+
+h2{
+	text-align:center;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+
+
+/* lenteles */
+
+
+table{
+	width:1000px;
+	margin:0 auto;
+}
+
+.lentele{
+	width:100%;
+	border-collapse: collapse;
+}
+
+td.center{
+	text-align:center;
+}
+
+tr:nth-child(even) {background-color: #e7eff6;}
+
+/*pirma lenteles eilute su pavadinimu*/
+
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+   border: 1px solid black ;
+   padding:5px;
+}
+
+/*first line style*/
+table th{
+	background-color:#b3cde0;
+	height:40px;
+	text-align:left;
+	font-family: 'Dancing Script', cursive;
+	font-size:24pt;
+	color:white;
+	}
+
+td{
+	
+    padding: 15px;
+    text-align: left;
+}
+
+h3{
+	text-align:center;
+	font-size:22;
+	font-family: 'Dancing Script', cursive;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+
+/*registracija*/
+
+form input:nth-child(1), form input:nth-child(2){ width:40%;}
+
+form input:nth-child(3)	{width:100%}
+
+
+p{
+	font-size:26;
+	color:#63ace5;
+	font-family: 'Dancing Script', cursive;
+	text-align:center;
+	}
+
+/*checkbox*/
+
+.container {
+    display: inline-block;
+    position: relative;
+    padding-left: 50px;
+    margin-bottom: 20px;
+	margin-top:20px;
+	margin-left:180px;
+    font-size: 20px;
+}
+
+
+/*radio button*/
+
+.checkmark2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/*pasirinkimas*/
+
+select{
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border-color:#4b86b4;
+	cursor: pointer;
+}
+
+/*dropdown menu*/
+
+.dropbtn {
+    background-color: #63ace5;
+    color:#2a4d69;
+    padding: 16px;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+	margin:auto;
+  display:block;
+}
+
+
+
+
+/*button style*/
+.dropbtn{
+    background-color:#63ace5;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+	border-radius: 2px;
+	margin: 20px auto 50 auto;
+	}
+
+.dropbtn:hover {
+    background-color:#adcbe3;
+}
+
+
+/*footer*/
+
+footer{
+		background-color:#384458;
+		height:100px;
+		padding-top:15px;
+		margin:0 auto;
+}
+
+.footerp{
+	font-size:14;
+	font-family: 'Quicksand', sans-serif;
+}
+
+
+
+
